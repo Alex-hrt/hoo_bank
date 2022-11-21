@@ -35,7 +35,6 @@ const App = () => (
 				<CTA />
 				<Footer />
 				<Hero />
-				<Navbar />
 				<Stats />
 				<Testimonials />
 			</div>
